@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Seungjun Park in KAIST Bachelor's course.
+- 👀 I’m interested in computing science and new technology.
+- 🌱 I’m currently learning Science of Computing and Startups.
+- 💞️ The keyword that represents me is a front-end, back-end and startup.
+- 📫 Contact me : Email : tmdwns1127@kaist.ac.kr / sonagi1727@gmail.com : Kakao Talk : seungjun._.
